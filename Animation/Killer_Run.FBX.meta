@@ -1,0 +1,263 @@
+fileFormatVersion: 2
+guid: 2f45054aaef96cc43ae384172f8af875
+timeCreated: 1463946264
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: killer
+    100002: Killer_Hub001
+    100004: Killer_Hub002
+    100006: Killer_LLeg1
+    100008: Killer_LLeg2
+    100010: Killer_LLegAnkle
+    100012: Killer_LLegDigit11
+    100014: Killer_LLegDigit12
+    100016: Killer_RLeg1
+    100018: Killer_RLeg2
+    100020: Killer_RLegAnkle
+    100022: Killer_RLegDigit11
+    100024: Killer_RLegDigit12
+    100026: //RootNode
+    100028: Killer_Spine1
+    100030: Killer_Spine2
+    100032: Killer_Tail1
+    100034: Killer_Tail2
+    100036: Killer_Tail3
+    100038: Killer_Tail4
+    100040: Killer_Tail5
+    400000: killer
+    400002: Killer_Hub001
+    400004: Killer_Hub002
+    400006: Killer_LLeg1
+    400008: Killer_LLeg2
+    400010: Killer_LLegAnkle
+    400012: Killer_LLegDigit11
+    400014: Killer_LLegDigit12
+    400016: Killer_RLeg1
+    400018: Killer_RLeg2
+    400020: Killer_RLegAnkle
+    400022: Killer_RLegDigit11
+    400024: Killer_RLegDigit12
+    400026: //RootNode
+    400028: Killer_Spine1
+    400030: Killer_Spine2
+    400032: Killer_Tail1
+    400034: Killer_Tail2
+    400036: Killer_Tail3
+    400038: Killer_Tail4
+    400040: Killer_Tail5
+    2300000: Killer_Hub001
+    2300002: Killer_Hub002
+    2300004: Killer_LLeg1
+    2300006: Killer_LLeg2
+    2300008: Killer_LLegAnkle
+    2300010: Killer_LLegDigit11
+    2300012: Killer_LLegDigit12
+    2300014: Killer_RLeg1
+    2300016: Killer_RLeg2
+    2300018: Killer_RLegAnkle
+    2300020: Killer_RLegDigit11
+    2300022: Killer_RLegDigit12
+    2300024: Killer_Spine1
+    2300026: Killer_Spine2
+    2300028: Killer_Tail1
+    2300030: Killer_Tail2
+    2300032: Killer_Tail3
+    2300034: Killer_Tail4
+    2300036: Killer_Tail5
+    3300000: Killer_Hub001
+    3300002: Killer_Hub002
+    3300004: Killer_LLeg1
+    3300006: Killer_LLeg2
+    3300008: Killer_LLegAnkle
+    3300010: Killer_LLegDigit11
+    3300012: Killer_LLegDigit12
+    3300014: Killer_RLeg1
+    3300016: Killer_RLeg2
+    3300018: Killer_RLegAnkle
+    3300020: Killer_RLegDigit11
+    3300022: Killer_RLegDigit12
+    3300024: Killer_Spine1
+    3300026: Killer_Spine2
+    3300028: Killer_Tail1
+    3300030: Killer_Tail2
+    3300032: Killer_Tail3
+    3300034: Killer_Tail4
+    3300036: Killer_Tail5
+    4300000: killer
+    4300002: Killer_Hub001
+    4300004: Killer_LLeg1
+    4300006: Killer_LLeg2
+    4300008: Killer_LLegAnkle
+    4300010: Killer_LLegDigit11
+    4300012: Killer_LLegDigit12
+    4300014: Killer_RLeg1
+    4300016: Killer_RLeg2
+    4300018: Killer_RLegAnkle
+    4300020: Killer_RLegDigit11
+    4300022: Killer_RLegDigit12
+    4300024: Killer_Tail1
+    4300026: Killer_Tail2
+    4300028: Killer_Tail3
+    4300030: Killer_Tail4
+    4300032: Killer_Tail5
+    4300034: Killer_Spine1
+    4300036: Killer_Spine2
+    4300038: Killer_Hub002
+    6400000: Killer_Hub001
+    6400002: Killer_Hub002
+    6400004: Killer_LLeg1
+    6400006: Killer_LLeg2
+    6400008: Killer_LLegAnkle
+    6400010: Killer_LLegDigit11
+    6400012: Killer_LLegDigit12
+    6400014: Killer_RLeg1
+    6400016: Killer_RLeg2
+    6400018: Killer_RLegAnkle
+    6400020: Killer_RLegDigit11
+    6400022: Killer_RLegDigit12
+    6400024: Killer_Spine1
+    6400026: Killer_Spine2
+    6400028: Killer_Tail1
+    6400030: Killer_Tail2
+    6400032: Killer_Tail3
+    6400034: Killer_Tail4
+    6400036: Killer_Tail5
+    7400000: run
+    9500000: //RootNode
+    13700000: killer
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: run
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: killer
+        weight: 1
+      - path: Killer_Hub001
+        weight: 1
+      - path: Killer_Hub001/Killer_LLeg1
+        weight: 1
+      - path: Killer_Hub001/Killer_LLeg1/Killer_LLeg2
+        weight: 1
+      - path: Killer_Hub001/Killer_LLeg1/Killer_LLeg2/Killer_LLegAnkle
+        weight: 1
+      - path: Killer_Hub001/Killer_LLeg1/Killer_LLeg2/Killer_LLegAnkle/Killer_LLegDigit11
+        weight: 1
+      - path: Killer_Hub001/Killer_LLeg1/Killer_LLeg2/Killer_LLegAnkle/Killer_LLegDigit11/Killer_LLegDigit12
+        weight: 1
+      - path: Killer_Hub001/Killer_RLeg1
+        weight: 1
+      - path: Killer_Hub001/Killer_RLeg1/Killer_RLeg2
+        weight: 1
+      - path: Killer_Hub001/Killer_RLeg1/Killer_RLeg2/Killer_RLegAnkle
+        weight: 1
+      - path: Killer_Hub001/Killer_RLeg1/Killer_RLeg2/Killer_RLegAnkle/Killer_RLegDigit11
+        weight: 1
+      - path: Killer_Hub001/Killer_RLeg1/Killer_RLeg2/Killer_RLegAnkle/Killer_RLegDigit11/Killer_RLegDigit12
+        weight: 1
+      - path: Killer_Hub001/Killer_Spine1
+        weight: 1
+      - path: Killer_Hub001/Killer_Spine1/Killer_Spine2
+        weight: 1
+      - path: Killer_Hub001/Killer_Spine1/Killer_Spine2/Killer_Hub002
+        weight: 1
+      - path: Killer_Hub001/Killer_Tail1
+        weight: 1
+      - path: Killer_Hub001/Killer_Tail1/Killer_Tail2
+        weight: 1
+      - path: Killer_Hub001/Killer_Tail1/Killer_Tail2/Killer_Tail3
+        weight: 1
+      - path: Killer_Hub001/Killer_Tail1/Killer_Tail2/Killer_Tail3/Killer_Tail4
+        weight: 1
+      - path: Killer_Hub001/Killer_Tail1/Killer_Tail2/Killer_Tail3/Killer_Tail4/Killer_Tail5
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.75
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
